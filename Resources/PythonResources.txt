@@ -1,0 +1,5 @@
+https://repl.it/ Python'u interpreter'a indirmeden python kodu yazmanızı sağlayan site
+https://docs.python.org/3/tutorial/index.html (Pythona başlarken takip edilebilir tutorial)
+https://www.youtube.com/watch?v=40Ip2UkpJDc&list=PLKnjBHu2xXNNiJdlhiEl_RMkK0PbJ1_DB (Algoritma öğrenirken takip edilebilecek playlist)
+https://www.youtube.com/watch?v=R75Oo--O5Q4&list=PLIHume2cwmHehcxQE1XZieL21syR3m3tR Python çalışırken takip edilebilir video serisi
+https://www.yazilimbilisim.net/algoritma/algoritma-ve-akis-diyagrami-ornekleri/ Algoritma örnekleri

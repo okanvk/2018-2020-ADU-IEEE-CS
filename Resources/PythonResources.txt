@@ -11,3 +11,8 @@ https://www.edx.org/ Ücretsiz bir çok konuda eğitim bulabileceğiniz platform
 https://docs.python-guide.org/ : Python çalışırken kullanılabilecek 
 https://projecteuler.net/ : Algoritma örnekleri bulunan uygulama
 https://github.com/deeplearningturkiye/turkce-yapay-zeka-kaynaklari : Türkçe Yapay Zeka kaynakları
+https://www.youtube.com/user/YazilimHerYerde : Murat Yücedağ Youtube kanalı
+https://www.w3schools.com/ : Yazılım teknolojileri üzerine tutoriallar içeren web uygulaması
+https://www.freecodecamp.org/ : Yazılım teknolojileri üzerine eğitimler içeren web uygulaması
+http://okanvkciftci.blogspot.com/p/bilisim-uzerine-filmler.html : Bilgisayar bilimlerini kapsayan film önerileri.
+https://www.hackerrank.com/ : Algoritma soruları içeren web uygulaması.

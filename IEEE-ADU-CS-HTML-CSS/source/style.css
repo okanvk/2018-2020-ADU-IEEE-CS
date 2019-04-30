@@ -1,0 +1,44 @@
+
+p{
+    background-color:beige;
+    color:red;
+    border-style: dashed;
+
+}
+
+h2{
+    background-color: cyan;
+    
+}
+
+table,th,td{
+    border: 1px solid black
+}
+
+table{
+    border-collapse: collapse;
+}
+
+th{
+    background-color: white;
+}
+td{
+    background-color: beige;
+}
+
+.p1{
+    border: 1px solid aqua;
+    color:black;
+}
+
+#id1{
+    border: 2px solid black;
+}
+
+
+
+
+
+
+
+
